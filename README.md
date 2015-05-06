@@ -7,6 +7,9 @@ Xi Zhang
 #Description
 Constrained Particle System with Baumgarte stabilization
 
+#Preview
+![screenshot](screenshots/cps.gif)
+
 #Library Dependence
 - glut
 - gsl
